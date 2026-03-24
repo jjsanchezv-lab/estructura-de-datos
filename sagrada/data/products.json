@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Hamburguesa Suprema Sagrada",
+    "price": 18000,
+    "description": "Jugosa carne de res 100% premium acompañada de queso cheddar fundido, pan brioche artesanal, lechuga fresca, tomate orgánico, cebolla caramelizada y nuestra exclusiva salsa secreta Sagrada que combina sabores dulces y ahumados.",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+  },
+  {
+    "name": "Pizza Artesanal Trufada",
+    "price": 25000,
+    "description": "Pizza elaborada con masa artesanal fermentada lentamente, cubierta con salsa de tomate natural, queso mozzarella fresco, aceite de trufa, champiñones salteados y un toque de parmesano envejecido.",
+    "image": "https://images.unsplash.com/photo-1548365328-9f547fb0953c"
+  },
+  {
+    "name": "Pasta Alfredo Premium",
+    "price": 22000,
+    "description": "Pasta fettuccine bañada en una cremosa salsa Alfredo con queso parmesano, mantequilla y crema fresca, acompañada de pollo a la parrilla sazonado con hierbas italianas.",
+    "image": "https://images.unsplash.com/photo-1521389508051-d7ffb5dc8c8b"
+  },
+  {
+    "name": "Salmón a la Parrilla",
+    "price": 30000,
+    "description": "Filete de salmón fresco cocinado a la parrilla con mantequilla de ajo y limón, acompañado de vegetales salteados y puré de papa cremoso.",
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288"
+  },
+  {
+    "name": "Tacos Gourmet",
+    "price": 20000,
+    "description": "Tortillas suaves rellenas de carne sazonada, guacamole fresco, pico de gallo, crema agria y queso rallado.",
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092"
+  },
+  {
+    "name": "Ensalada César Deluxe",
+    "price": 15000,
+    "description": "Lechuga fresca con aderezo César casero, crutones crujientes, pollo a la parrilla y queso parmesano rallado.",
+    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb36"
+  },
+  {
+    "name": "Costillas BBQ",
+    "price": 28000,
+    "description": "Costillas de cerdo cocidas lentamente y bañadas en salsa BBQ ahumada, acompañadas de papas fritas y ensalada.",
+    "image": "https://images.unsplash.com/photo-1600891964092-4316c288032e"
+  },
+
+  {
+    "name": "Limonada Natural",
+    "price": 8000,
+    "description": "Refrescante limonada preparada con limones frescos, azúcar natural y hielo triturado.",
+    "image": "https://images.unsplash.com/photo-1527169402691-a3fb1d8c1d3e"
+  },
+  {
+    "name": "Jugo de Mango",
+    "price": 9000,
+    "description": "Jugo natural de mango maduro, preparado al instante para conservar su sabor y frescura.",
+    "image": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b"
+  },
+  {
+    "name": "Café Premium",
+    "price": 7000,
+    "description": "Café colombiano de alta calidad con aroma intenso y sabor profundo.",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+  },
+  {
+    "name": "Chocolate Caliente",
+    "price": 8500,
+    "description": "Bebida caliente de chocolate con leche espumosa y toque de canela.",
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699"
+  },
+  {
+    "name": "Malteada de Vainilla",
+    "price": 12000,
+    "description": "Cremosa malteada con helado de vainilla, leche y topping de crema batida.",
+    "image": "https://images.unsplash.com/photo-1577805947697-89e18249d767"
+  },
+  {
+    "name": "Té Helado",
+    "price": 7000,
+    "description": "Té frío refrescante con toque de limón y hojas naturales.",
+    "image": "https://images.unsplash.com/photo-1558645836-e44122a7431d"
+  },
+  {
+    "name": "Smoothie de Fresa",
+    "price": 11000,
+    "description": "Batido natural de fresas con yogurt y miel.",
+    "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888"
+  }
+]
