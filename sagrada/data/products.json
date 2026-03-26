@@ -1,6 +1,6 @@
 [
   {
-    "name": "Hamburguesa Suprema Sagrada",
+    "name": "Hamburguesa Suprema Zagrada",
     "price": 18000,
     "description": "Jugosa carne de res 100% premium acompañada de queso cheddar fundido, pan brioche artesanal, lechuga fresca, tomate orgánico, cebolla caramelizada y nuestra exclusiva salsa secreta Sagrada que combina sabores dulces y ahumados.",
     "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
@@ -9,13 +9,13 @@
     "name": "Pizza Artesanal Trufada",
     "price": 25000,
     "description": "Pizza elaborada con masa artesanal fermentada lentamente, cubierta con salsa de tomate natural, queso mozzarella fresco, aceite de trufa, champiñones salteados y un toque de parmesano envejecido.",
-    "image": "https://images.unsplash.com/photo-1548365328-9f547fb0953c"
+    "image": "https://trufbox.com/wp-content/uploads/pizza-casera-trufa.jpg"
   },
   {
     "name": "Pasta Alfredo Premium",
     "price": 22000,
     "description": "Pasta fettuccine bañada en una cremosa salsa Alfredo con queso parmesano, mantequilla y crema fresca, acompañada de pollo a la parrilla sazonado con hierbas italianas.",
-    "image": "https://images.unsplash.com/photo-1521389508051-d7ffb5dc8c8b"
+    "image": "https://img.freepik.com/fotos-premium/pasta-alfredo-pollo-espinaca-queso-comida-italiana_97840-8675.jpg"
   },
   {
     "name": "Salmón a la Parrilla",
@@ -33,7 +33,7 @@
     "name": "Ensalada César Deluxe",
     "price": 15000,
     "description": "Lechuga fresca con aderezo César casero, crutones crujientes, pollo a la parrilla y queso parmesano rallado.",
-    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb36"
+    "image": "https://www.palacios.es/palacios/usuariosFtp/conexion/imagenes225a.jpg"
   },
   {
     "name": "Costillas BBQ",
@@ -46,7 +46,7 @@
     "name": "Limonada Natural",
     "price": 8000,
     "description": "Refrescante limonada preparada con limones frescos, azúcar natural y hielo triturado.",
-    "image": "https://images.unsplash.com/photo-1527169402691-a3fb1d8c1d3e"
+    "image": "https://www.sortirambnens.com/wp-content/uploads/2019/02/llimonada-natural-per-a-nens.jpg"
   },
   {
     "name": "Jugo de Mango",
@@ -76,7 +76,7 @@
     "name": "Té Helado",
     "price": 7000,
     "description": "Té frío refrescante con toque de limón y hojas naturales.",
-    "image": "https://images.unsplash.com/photo-1558645836-e44122a7431d"
+    "image": "https://www.finedininglovers.es/sites/default/files/article_content_images/te-helado-casero.jpg"
   },
   {
     "name": "Smoothie de Fresa",
